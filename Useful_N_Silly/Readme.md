@@ -1,1 +1,1 @@
-
+Basically the same as Useful .bat files, but with added sillyness / easter eggs. 
