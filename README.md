@@ -23,10 +23,9 @@
 
 <details><summary>Short description</summary>
 This is a collection of useful .bat files.
-Mostly for use with various 3rd party command line programs (mostly image magick or ffdshow etc.) and simple *"programs"* i made to help with different stuff that might be useful for others.</details>
+Mostly for use with various 3rd party command line programs (mostly image magick or ffdshow etc.) and simple *"programs"* i made to help with different stuff </details>
 
-[Useful .bat files](https://github.com/lunchpacked130/Batch-It-Crazy-/blob/508a50fbfa3a7bf3df6807f32344f343091f2256/Useful/Readme.md)
-
+**[Useful .bat files](/../../useful/readme.md)**
 
 ## Useful and Silly .bat files
 
@@ -34,7 +33,7 @@ Mostly for use with various 3rd party command line programs (mostly image magick
 Short description</summary>
 Basically the same as Useful .bat files, but with added sillyness / easter eggs.</details>
 
-[Useful .bat scripts with silly stuff included](https://github.com/lunchpacked130/Batch-It-Crazy-/blob/508a50fbfa3a7bf3df6807f32344f343091f2256/Useful_N_Silly/Readme.md)
+**[Useful .bat scripts with silly stuff included](/../../Silly/Readme.md)**
 
 
 ## Silly .bat files
@@ -43,10 +42,7 @@ Basically the same as Useful .bat files, but with added sillyness / easter eggs.
 Mostly useless, but entertaining. bat files.
 In essence a collection of .bat files where I'm testing out different features, and some *"visual"* .bat files used in previous video projects. </details>
 
-[Silly .bat files](https://github.com/lunchpacked130/Batch-It-Crazy-/blob/508a50fbfa3a7bf3df6807f32344f343091f2256/Silly/Readme.md)
+**[Silly .bat files](/../../Silly/Readme.md)**
 
 
 
-Useful/Readme.md 
-
-Useful_N_Silly/Readme.md
