@@ -1,7 +1,7 @@
 # Batch-It-Crazy
 **A repository for my .bat files.**
 
->[!INFO]
+>[!NOTE]
 >There are **no** malicious code or viruses or anything similar in any of the .bat files provided, check the code if you want. (though it may spoil the fun of the silly ones)
 
 <Details><summary>More info</summary>
